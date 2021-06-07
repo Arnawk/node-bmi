@@ -1,0 +1,16 @@
+{
+  "name": "node-bmi",
+  "version": "1.0.0",
+  "description": "dockerized bmi calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Arnaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
